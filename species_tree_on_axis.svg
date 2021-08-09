@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="species_tree_on_axis.svg"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   id="svg15593"
+   version="1.1"
+   viewBox="0 0 120 100"
+   height="100mm"
+   width="120mm">
+  <defs
+     id="defs15587" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="30"
+     inkscape:window-x="427"
+     inkscape:window-height="666"
+     inkscape:window-width="1280"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="269.33532"
+     inkscape:cx="348.7332"
+     inkscape:zoom="0.73614394"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata15590">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 89.386317,85.516989 79.937549,69.151251 Z"
+       id="path833-3-4"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833-3-9-9"
+       d="M 79.937549,69.151251 70.488788,52.785539 Z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.040028,69.15128 9.44876,-16.365741 z"
+       id="path833-7-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.591257,85.517021 61.040028,69.15128 Z"
+       id="path833-2-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70.488788,52.785539 -9.44876,-16.36569 z"
+       id="path833-3-9-5-5"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833-3-9-5-1-5"
+       d="m 61.040028,36.419849 -9.44876,-16.36568 z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.142492,36.419879 9.448776,-16.36571 z"
+       id="path833-4-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833-4-7-2"
+       d="m 32.693723,52.785599 9.448769,-16.36572 z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 23.244951,69.151341 32.693723,52.785599 Z"
+       id="path833-4-7-1-9"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833-4-7-1-3-8"
+       d="M 13.796176,85.517079 23.244951,69.151341 Z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1024-2"
+       d="m 19.948573,74.952809 6.077345,10.52626 z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833-3-3-0"
+       d="m 75.430409,85.619079 -11.91341,-20.6346 z"
+       style="fill:none;stroke:#000000;stroke-width:2.419;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 93.030177,86.899649 H 11.540779 Z"
+       id="path1111"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.540779,86.899649 V 16.526889 Z"
+       id="path1128"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.05833;stroke-dashoffset:0.767292;stroke-opacity:1"
+       d="m 63.516999,64.984479 v 21.72522 z"
+       id="path1130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 1.06;stroke-dashoffset:0.0794999;stroke-opacity:1"
+       d="M 63.516999,64.984479 H 98.708882 Z"
+       id="path1132"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 1.06;stroke-dashoffset:0.662501;stroke-opacity:1"
+       d="M 70.488788,52.785539 V 86.58072 Z"
+       id="path1134"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 1.06;stroke-dashoffset:0.636;stroke-opacity:1"
+       d="M 70.488788,52.785539 H 98.736451 Z"
+       id="path1136"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.05833;stroke-dashoffset:0.529167;stroke-opacity:1"
+       d="M 19.948572,74.952809 V 86.58072 Z"
+       id="path1138"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 1.06;stroke-dashoffset:0.1855;stroke-opacity:1"
+       d="M 19.94857,74.952809 H 98.73153 Z"
+       id="path1140"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 1.05833;stroke-dashoffset:0.132291;stroke-opacity:1"
+       d="M 51.591268,20.054169 V 86.862671 Z"
+       id="path1142"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 1.59;stroke-dashoffset:0.848;stroke-opacity:1"
+       d="M 51.591268,20.054169 H 98.694001 Z"
+       id="path1144"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       x="100.73349"
+       y="76.202354"
+       id="text1150"><tspan
+         sodipodi:role="line"
+         id="tspan1148"
+         x="100.73349"
+         y="76.202354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">τ<tspan
+   style="font-size:3.61154px;baseline-shift:sub;stroke-width:0.264583"
+   id="tspan1154">AB</tspan></tspan></text>
+    <text
+       id="text1150-0"
+       y="21.746185"
+       x="100.15704"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="21.746185"
+         x="100.15704"
+         id="tspan1148-6"
+         sodipodi:role="line">τ<tspan
+   id="tspan1154-0"
+   style="font-size:3.61154px;baseline-shift:sub;stroke-width:0.264583">ABCDE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       x="100.72824"
+       y="54.194714"
+       id="text1150-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan1148-6-0"
+         x="100.72824"
+         y="54.194714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">τ<tspan
+   style="font-size:3.61154px;baseline-shift:sub;stroke-width:0.264583"
+   id="tspan1154-0-5">CDE</tspan></tspan></text>
+    <text
+       id="text1150-0-4-8"
+       y="66.285957"
+       x="100.53783"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="66.285957"
+         x="100.53783"
+         id="tspan1148-6-0-6"
+         sodipodi:role="line">τ<tspan
+   id="tspan1154-0-5-7"
+   style="font-size:3.61154px;baseline-shift:sub;stroke-width:0.264583">CD</tspan></tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0628298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.0439811;stroke-opacity:1"
+       id="path1503"
+       sodipodi:sides="3"
+       sodipodi:cx="11.540778"
+       sodipodi:cy="16.959755"
+       sodipodi:r1="3.0786853"
+       sodipodi:r2="1.5393426"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 14.206998,18.499098 -2.66622,0 -2.6662195,0 1.3331095,-2.309014 1.33311,-2.309014 1.33311,2.309014 z"
+       inkscape:transform-center-y="-0.78168275"
+       inkscape:transform-center-x="1.0081334e-06" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       x="-60.966656"
+       y="9.9913454"
+       id="text1150-0-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1148-6-3"
+         x="-60.966656"
+         y="9.9913454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Time</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       x="12.17604"
+       y="93.169304"
+       id="text1150-0-3-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1148-6-3-2-4"
+         x="12.17604"
+         y="93.169304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">A</tspan></text>
+    <text
+       id="text1150-0-3-0-1-7"
+       y="93.169304"
+       x="87.79287"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="93.169304"
+         x="87.79287"
+         id="tspan1148-6-3-2-8-1"
+         sodipodi:role="line">E</tspan></text>
+    <text
+       id="text1150-0-3-0-11-1"
+       y="93.169304"
+       x="73.559448"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="93.169304"
+         x="73.559448"
+         id="tspan1148-6-3-2-3-8"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       id="text1150-0-3-0-0-5"
+       y="93.169304"
+       x="50.276089"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="93.169304"
+         x="50.276089"
+         id="tspan1148-6-3-2-7-2"
+         sodipodi:role="line">C</tspan></text>
+    <text
+       id="text1150-0-3-0-2-0"
+       y="93.169304"
+       x="24.346886"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.5562px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="93.169304"
+         x="24.346886"
+         id="tspan1148-6-3-2-35-1"
+         sodipodi:role="line">B</tspan></text>
+  </g>
+</svg>
